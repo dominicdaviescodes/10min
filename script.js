@@ -1,5 +1,4 @@
 const btn = document.getElementById('btn');
-
 // function buttonClick() {
 //   btn.addEventListener('click',() => {
 //   alert('You Clicked Me!');
@@ -10,3 +9,5 @@ const btn = document.getElementById('btn');
 btn.addEventListener('click', () => {
   alert('You Clicked Me!');
 });
+
+
